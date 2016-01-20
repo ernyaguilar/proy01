@@ -1,0 +1,17 @@
+commit 926ca9b3767b0a413023a9c61e50e92af2afc303
+Author: Luis Ernesto Aguilar Hernandez <auhl373453@cmv.mx>
+Date:   Tue Jan 19 16:25:06 2016 -0600
+
+    se cambio el tiempo de espera de inicio del robot
+
+commit e94c2cc423cf1aa1526b2dc991def1e2a71fbcfd
+Author: Luis Ernesto Aguilar Hernandez <auhl373453@cmv.mx>
+Date:   Tue Jan 19 15:43:06 2016 -0600
+
+    Quito label errores
+
+commit bea4a0f2a8d7363140283da3d7fa3ec1602ff466
+Author: Luis Ernesto Aguilar Hernandez <auhl373453@cmv.mx>
+Date:   Tue Jan 19 15:39:55 2016 -0600
+
+    Primer Comit - Hola Mundo
